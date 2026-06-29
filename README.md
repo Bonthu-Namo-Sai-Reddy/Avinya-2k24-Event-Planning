@@ -3,11 +3,11 @@ This repository contains the event planning and scheduling documentation created
 
 **Features**
 
--📅 Detailed technical event schedule
--📊 Excel-based planning and timeline management
--🏫 Venue and event slot allocation
--👥 Volunteer and coordinator planning
--✅ Task organization for seamless event execution
+- 📅 Detailed technical event schedule
+- 📊 Excel-based planning and timeline management
+- 🏫 Venue and event slot allocation
+- 👥 Volunteer and coordinator planning
+- ✅ Task organization for seamless event execution
 
 **Tools Used**
 -Microsoft Excel
