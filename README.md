@@ -9,6 +9,13 @@ This repository contains the event planning and scheduling documentation created
 - 👥 Volunteer and coordinator planning
 - ✅ Task organization for seamless event execution
 
+### 🚀 About Me
+- 👨‍💻 **Embedded Systems Intern** at **Pranavation Pvt Ltd, Bengaluru**
+- 🎓 Final Year Undergraduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
+- 💡 Passionate about **IoT, Embedded Systems, Spintronics, and Semiconductor Devices**  
+- 🏆 **1st Place in ROBO RACE** | **3rd Place in Work-A-Thon 2k24**  
+- 📡 Working on **Comparative Analysis of 4:1 MUX using Spintronic Devices**  
+
 **Tools Used**
 -Microsoft Excel
 
