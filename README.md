@@ -1,7 +1,8 @@
 # Avinya 2K24 - Technical Events Planning & Scheduling
 This repository contains the event planning and scheduling documentation created for Avinya 2K24, focusing on the organization of technical events. The project includes a comprehensive Excel-based event plan that outlines event schedules, timelines, venue allocation, volunteer coordination, and resource management to ensure the smooth execution of the fest.
 
-<img width="441" height="625" alt="AVINYA 2k24 POSTER" src="https://github.com/user-attachments/assets/471fb492-33d3-4da1-93cb-6013ae9099cb" />
+<img width="441" height="625" alt="AVINYA 2k24 POSTER" src="https://github.com/user-attachments/assets/471fb492-33d3-4da1-93cb-6013ae9099cb" /> <img width="441" height="625" alt="v" src="https://github.com/user-attachments/assets/62ed9c26-0e2b-488f-aa02-450348c065fc" />
+
 
 **Features**
 - 📅 Detailed technical event schedule
