@@ -10,6 +10,7 @@ This repository contains the event planning and scheduling documentation created
 
 
 **Tools Used**
--Microsoft Excel
+- Microsoft Excel
+
 
 This project demonstrates event management, scheduling, planning, and organizational skills through a structured workflow for a college technical fest.
